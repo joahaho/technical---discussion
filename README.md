@@ -7,3 +7,6 @@ This is a demo repo for sharing ideas around communication
 * one
 * two
 * three
+
+#Colab example
+this is the [notebook] (https://jupyter.org/try-jupyter/lab?path=Demo.ipynb)
