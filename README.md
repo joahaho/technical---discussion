@@ -9,4 +9,4 @@ This is a demo repo for sharing ideas around communication
 * three
 
 ### Colab example
-this is the [notebook] (https://jupyter.org/try-jupyter/lab?path=Demo.ipynb)
+this is the [notebook](https://jupyter.org/try-jupyter/lab?path=Demo.ipynb)
